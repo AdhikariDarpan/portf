@@ -352,7 +352,7 @@ section .title::after {
   transform: translateX(-50%);
 }
 section.navigation .content{
- margin-top: 60px;
+ margin-top: 70px;
 }
 /* one change */
 .column:not(.image) {
